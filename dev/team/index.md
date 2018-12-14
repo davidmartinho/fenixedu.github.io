@@ -38,6 +38,28 @@ root: "../../"
 	<img src="https://avatars0.githubusercontent.com/u/10809667?v=3&s=460">
 </li>
 
+
+<li id="joaoreis">
+	<h4>João Reis</h4>
+	<p>Developer</p>
+	<a href="https://github.com/joaopiri"><i aria-hidden="true" class="icon-github">@joaopiri</i></a>
+	<img src="https://avatars3.githubusercontent.com/u/17771276?s=460&v=4">
+</li>
+
+<li id="marco">
+	<h4>Marco Cerdeira</h4>
+	<p>Pescador</p>
+	<a href="https://github.com/marco-cerdeira"><i aria-hidden="true" class="icon-github">@marco-cerdeira</i></a>
+	<img src="https://avatars3.githubusercontent.com/u/4895866?v=3&s=460">
+</li>
+
+<li id="miguel">
+	<h4>Miguel Ventura</h4>
+	<p>Developer</p>
+	<a href="https://github.com/skamv"><i aria-hidden="true" class="icon-github">@skamv</i></a>
+	<img src="https://avatars2.githubusercontent.com/u/5191487?s=400&v=4">
+</li>
+
 <li id="ricardo">
 	<h4>Ricardo Rodrigues</h4>
 	<p>Developer</p>
@@ -74,13 +96,6 @@ root: "../../"
 	<img src="https://avatars3.githubusercontent.com/u/15033347?s=400&v=4">
 </li>
 
-<li id="gil">
-	<h4>Gil Lacerda</h4>
-	<p>Junior Developer</p>
-	<a href="https://github.com/gil-l"><i aria-hidden="true" class="icon-github">@gil-l</i></a>
-	<img src="https://avatars0.githubusercontent.com/u/5663618?s=460">
-</li>
-
 <li id="joao">
 	<h4>João Abrantes</h4>
 	<p>Junior Developer</p>
@@ -94,41 +109,6 @@ root: "../../"
 	<a href="https://github.com/luisfavila"><i aria-hidden="true" class="icon-github">@luisfavila</i></a>
 	<a href="https://twitter.com/luisfilipeavila"><i aria-hidden="true" class="icon-twitter">@luisfilipeavila</i></a>
 	<img src="https://avatars3.githubusercontent.com/u/15204687?s=400&v=4">
-</li>
-
-<li id="luissantos">
-	<h4>Luís Santos</h4>
-	<p>Junior Developer</p>
-	<a href="https://github.com/luisfsantos"><i aria-hidden="true" class="icon-github">@luisfsantos</i></a>
-	<img src="https://avatars2.githubusercontent.com/u/5561082?v=3&s=460">
-</li>
-
-<li id="marco">
-	<h4>Marco Cerdeira</h4>
-	<p>Junior Developer</p>
-	<a href="https://github.com/marco-cerdeira"><i aria-hidden="true" class="icon-github">@marco-cerdeira</i></a>
-	<img src="https://avatars3.githubusercontent.com/u/4895866?v=3&s=460">
-</li>
-
-<li id="miguel">
-	<h4>Miguel Ventura</h4>
-	<p>Junior Developer</p>
-	<a href="https://github.com/skamv"><i aria-hidden="true" class="icon-github">@skamv</i></a>
-	<img src="https://avatars2.githubusercontent.com/u/5191487?s=400&v=4">
-</li>
-
-<li id="paulo">
-	<h4>Paulo Branco</h4>
-	<p>Junior Developer</p>
-	<a href="https://github.com/Paulo-Branco"><i aria-hidden="true" class="icon-github">@Paulo-Branco</i></a>
-	<img src="https://avatars0.githubusercontent.com/u/6325243?v=3&s=460">
-</li>
-
-<li id="ricardoa">
-	<h4>Ricardo Almeida</h4>
-	<p>Junior Developer</p>
-	<a href="https://github.com/ricardo-j-almeida"><i aria-hidden="true" class="icon-github">@ricardo-j-almeida</i></a>
-	<img src="https://avatars3.githubusercontent.com/u/11167694?v=3&s=460">
 </li>
 
 </ul>
